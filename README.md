@@ -23,8 +23,8 @@
 #### Data Description
     
     The client will send data in multiple sets of files in batches at a given location.
-    Data will contain 14 columns.
-    The last column is the label column which will have income values of individuals <=50 or >50k
+    Data will contain 39 columns.
+    The last column is the label column which will have Fraud reported either Y - yes or N - NO
     
     Apart from training files, we laso require a "schema" file from the client, which contain all the
     relevant information about the training files such as:
