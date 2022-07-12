@@ -1,0 +1,56 @@
+2022-06-03/23:21:22		Start of Prediction
+2022-06-03/23:22:08		Error occured while running the prediction!! Error:: 'NoneType' object has no attribute 'predict'
+2022-06-03/23:26:31		Start of Prediction
+2022-06-03/23:27:53		Error occured while running the prediction!! Error:: 'NoneType' object has no attribute 'predict'
+2022-06-04/14:34:17		Start of Prediction
+2022-06-04/14:40:28		Error occured while running the prediction!! Error:: 'NoneType' object has no attribute 'predict'
+2022-06-04/15:07:52		Start of Prediction
+2022-06-04/15:08:44		Error occured while running the prediction!! Error:: 
+2022-06-04/15:12:02		Start of Prediction
+2022-06-04/15:15:09		Error occured while running the prediction!! Error:: 
+2022-06-04/18:20:20		Start of Prediction
+2022-06-04/18:20:22		End of Prediction
+2022-06-04/18:58:17		Start of Prediction
+2022-06-04/18:58:19		End of Prediction
+2022-06-04/19:21:18		Start of Prediction
+2022-06-04/19:21:21		End of Prediction
+2022-06-04/20:35:05		Start of Prediction
+2022-06-04/20:35:07		End of Prediction
+2022-06-04/21:35:00		Start of Prediction
+2022-06-04/21:35:02		End of Prediction
+2022-06-15/13:07:34		Start of Prediction
+2022-06-15/13:07:36		End of Prediction
+2022-06-15/13:46:02		Start of Prediction
+2022-06-15/13:46:05		End of Prediction
+2022-06-15/14:21:34		Start of Prediction
+2022-06-15/14:21:37		End of Prediction
+2022-06-15/18:11:36		Start of Prediction
+2022-06-15/18:11:38		End of Prediction
+2022-06-15/19:44:09		Start of Prediction
+2022-06-15/19:44:12		End of Prediction
+2022-06-15/20:08:13		Start of Prediction
+2022-06-15/20:08:16		End of Prediction
+2022-06-20/16:11:52		Start of Prediction
+2022-06-20/16:11:55		End of Prediction
+2022-06-20/20:40:21		Start of Prediction
+2022-06-20/20:40:24		End of Prediction
+2022-06-20/21:19:41		Start of Prediction
+2022-06-20/21:19:42		Error occured while running the prediction!! Error:: Incorrect number of features. Got 83 features, expected 82
+2022-06-20/21:21:54		Start of Prediction
+2022-06-20/21:21:55		End of Prediction
+2022-06-20/21:51:21		Start of Prediction
+2022-06-20/21:51:23		End of Prediction
+2022-06-20/23:25:19		Start of Prediction
+2022-06-20/23:25:21		End of Prediction
+2022-06-21/22:58:54		Start of Prediction
+2022-06-21/22:58:57		End of Prediction
+2022-06-21/23:12:15		Start of Prediction
+2022-06-21/23:12:15		End of Prediction
+2022-06-22/13:18:43		Start of Prediction
+2022-06-22/13:18:45		End of Prediction
+2022-06-24/13:33:26		Start of Prediction
+2022-06-24/13:33:28		End of Prediction
+2022-06-27/14:01:40		Start of Prediction
+2022-06-27/14:01:42		End of Prediction
+2022-07-12/11:01:01		Start of Prediction
+2022-07-12/11:01:01		End of Prediction

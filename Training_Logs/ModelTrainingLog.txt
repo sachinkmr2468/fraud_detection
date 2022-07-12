@@ -1,0 +1,106 @@
+2022-05-31/18:09:23		Start of Training
+2022-05-31/18:16:54		Unsuccessful End of Training
+2022-06-01/19:59:38		Start of Training
+2022-06-01/19:59:40		Unsuccessful End of Training
+2022-06-01/20:22:08		Start of Training
+2022-06-01/20:24:56		Unsuccessful End of Training
+2022-06-01/20:30:26		Start of Training
+2022-06-01/20:30:27		Unsuccessful End of Training
+2022-06-01/20:41:44		Start of Training
+2022-06-01/20:41:44		Unsuccessful End of Training
+2022-06-01/21:20:26		Start of Training
+2022-06-01/21:20:27		Unsuccessful End of Training
+2022-06-01/21:23:37		Start of Training
+2022-06-01/21:23:38		Unsuccessful End of Training
+2022-06-01/21:59:28		Start of Training
+2022-06-01/21:59:29		Unsuccessful End of Training
+2022-06-01/22:06:11		Start of Training
+2022-06-01/22:18:05		Unsuccessful End of Training
+2022-06-01/22:25:21		Start of Training
+2022-06-01/22:35:35		Unsuccessful End of Training
+2022-06-02/18:10:58		Start of Training
+2022-06-02/18:11:00		Unsuccessful End of Training
+2022-06-02/18:30:56		Start of Training
+2022-06-02/18:30:57		Unsuccessful End of Training
+2022-06-02/19:24:13		Start of Training
+2022-06-02/19:32:27		Successful End of Training
+2022-06-02/21:57:37		Start of Training
+2022-06-02/22:22:37		Successful End of Training
+2022-06-04/17:01:45		Start of Training
+2022-06-04/17:01:45		Unsuccessful End of Training
+2022-06-04/17:40:25		Start of Training
+2022-06-04/17:48:20		Successful End of Training
+2022-07-09/15:59:30		Start of Training
+2022-07-09/16:04:36		Successful End of Training
+2022-07-09/16:22:54		Start of Training
+2022-07-09/16:22:54		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_ingestion\data_loader.py] line number [29] error message [[Errno 2] File b'Training_FileFromDB/InputFileaa.csv.csv' does not exist: b'Training_FileFromDB/InputFileaa.csv.csv'].
+2022-07-09/16:32:29		Start of Training
+2022-07-09/16:32:29		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_ingestion\data_loader.py] line number [29] error message [[Errno 2] File b'Training_FileFromDB/InputFileaa.csv' does not exist: b'Training_FileFromDB/InputFileaa.csv'].
+2022-07-09/17:24:39		Start of Training
+2022-07-09/17:24:39		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [66] error message ["['education'] not found in axis"].
+2022-07-09/17:32:06		Start of Training
+2022-07-09/17:32:06		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [185] error message [at least one array or dtype is required].
+2022-07-11/11:02:47		Start of Training
+2022-07-11/11:02:48		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [240] error message ['Preprocessor' object has no attribute 'logger_object'].
+2022-07-11/11:16:07		Start of Training
+2022-07-11/11:16:07		Unsuccessful End of Training[Errno 2] No such file or directory: 'raining_Logs/KMeansClusteringlog.txt'
+2022-07-11/11:22:06		Start of Training
+2022-07-11/11:22:06		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\clustering.py] line number [32] error message [Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required.].
+2022-07-11/12:19:05		Start of Training
+2022-07-11/12:19:05		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\clustering.py] line number [32] error message [Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required.].
+2022-07-11/13:14:26		Start of Training
+2022-07-11/13:14:26		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\clustering.py] line number [32] error message [Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required.].
+2022-07-11/13:42:36		Start of Training
+2022-07-11/13:42:39		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [120] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [85] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/14:00:03		Start of Training
+2022-07-11/14:00:04		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [120] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [85] error message [Found input variables with inconsistent numbers of samples: [552, 378]].].
+2022-07-11/14:37:45		Start of Training
+2022-07-11/14:37:47		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [120] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [85] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/15:00:11		Start of Training
+2022-07-11/15:00:12		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [137] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/17:13:20		Start of Training
+2022-07-11/17:13:21		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [137] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/17:16:12		Start of Training
+2022-07-11/17:16:23		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [137] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/17:21:25		Start of Training
+2022-07-11/17:22:17		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [137] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/17:23:58		Start of Training
+2022-07-11/17:23:59		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [137] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/18:29:17		Start of Training
+2022-07-11/18:29:18		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [135] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/18:37:03		Start of Training
+2022-07-11/18:37:03		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [91] error message ["['fraud_reported'] not found in axis"].
+2022-07-11/18:50:42		Start of Training
+2022-07-11/18:50:42		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [157] error message [No value is repeated more than once in the column].
+2022-07-11/18:57:03		Start of Training
+2022-07-11/18:57:03		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\clustering.py] line number [32] error message [Input contains NaN, infinity or a value too large for dtype('float64').].
+2022-07-11/20:12:15		Start of Training
+2022-07-11/20:12:16		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [135] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-11/20:17:21		Start of Training
+2022-07-11/20:17:22		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [187] error message ["['capital_loss', 'capital_gains'] not in index"].
+2022-07-11/20:20:52		Start of Training
+2022-07-11/20:20:53		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [135] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [50, 31]].].
+2022-07-11/23:44:16		Start of Training
+2022-07-11/23:44:17		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [135] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-12/00:05:05		Start of Training
+2022-07-12/00:05:06		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [131] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [90] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-12/00:19:06		Start of Training
+2022-07-12/00:19:07		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [131] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [90] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-12/00:34:41		Start of Training
+2022-07-12/00:34:41		Unsuccessful End of Training'DataFrame' object has no attribute 'reshape'
+2022-07-12/00:39:22		Start of Training
+2022-07-12/00:39:23		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [96] error message ['DataFrame' object has no attribute 'reshape'].
+2022-07-12/00:40:50		Start of Training
+2022-07-12/00:40:50		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [96] error message ['DataFrame' object has no attribute 'reshape'].
+2022-07-12/01:04:20		Start of Training
+2022-07-12/01:04:21		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [131] error message [Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [90] error message [Found input variables with inconsistent numbers of samples: [392, 263]].].
+2022-07-12/01:43:19		Start of Training
+2022-07-12/01:43:19		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\preprocessing.py] line number [267] error message ['Only the Series name can be used for the key in Series dtype mappings.'].
+2022-07-12/01:47:55		Start of Training
+2022-07-12/01:47:55		Unsuccessful End of TrainingError occurred python script name [B:\project\fraud_detection\data_preprocessing\clustering.py] line number [32] error message [could not convert string to float: 'YES'].
+2022-07-12/09:52:29		Start of Training
+2022-07-12/09:52:31		Unsuccessful End of Training
+2022-07-12/09:56:04		Start of Training
+2022-07-12/09:56:04		Unsuccessful End of Training
+2022-07-12/10:00:51		Start of Training
+2022-07-12/10:01:03		Successful End of Training

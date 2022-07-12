@@ -1,0 +1,92 @@
+2022-07-11/13:42:39		Entered the get_best_model method of the Model_Finder class
+2022-07-11/13:42:39		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/13:42:39		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/13:42:39		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/13:42:39		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [85] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/13:42:39		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/14:00:04		Entered the get_best_model method of the Model_Finder class
+2022-07-11/14:00:04		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/14:00:04		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [552, 378]
+2022-07-11/14:00:04		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/14:00:04		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [85] error message [Found input variables with inconsistent numbers of samples: [552, 378]].
+2022-07-11/14:00:04		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/14:37:47		Entered the get_best_model method of the Model_Finder class
+2022-07-11/14:37:47		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/14:37:47		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/14:37:47		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/14:37:47		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [85] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/14:37:47		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/15:00:12		Entered the get_best_model method of the Model_Finder class
+2022-07-11/15:00:12		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/15:00:12		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/15:00:12		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/15:00:12		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/15:00:12		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/17:13:21		Entered the get_best_model method of the Model_Finder class
+2022-07-11/17:13:21		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/17:13:21		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/17:13:21		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/17:13:21		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/17:13:21		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/17:23:59		Entered the get_best_model method of the Model_Finder class
+2022-07-11/17:23:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/17:23:59		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/17:23:59		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/17:23:59		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [96] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/17:23:59		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/18:29:18		Entered the get_best_model method of the Model_Finder class
+2022-07-11/18:29:18		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/18:29:18		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/18:29:18		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/18:29:18		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/18:29:18		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/20:12:16		Entered the get_best_model method of the Model_Finder class
+2022-07-11/20:12:16		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/20:12:16		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/20:12:16		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/20:12:16		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/20:12:16		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/20:20:53		Entered the get_best_model method of the Model_Finder class
+2022-07-11/20:20:53		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/20:20:53		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [50, 31]
+2022-07-11/20:20:53		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/20:20:53		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [50, 31]].
+2022-07-11/20:20:53		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-11/23:44:17		Entered the get_best_model method of the Model_Finder class
+2022-07-11/23:44:17		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/23:44:17		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-11/23:44:17		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-11/23:44:17		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [94] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-11/23:44:17		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-12/00:05:06		Entered the get_best_model method of the Model_Finder class
+2022-07-12/00:05:06		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/00:05:06		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-12/00:05:06		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/00:05:06		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [90] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-12/00:05:06		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-12/00:19:07		Entered the get_best_model method of the Model_Finder class
+2022-07-12/00:19:07		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/00:19:07		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-12/00:19:07		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/00:19:07		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [90] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-12/00:19:07		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-12/01:04:21		Entered the get_best_model method of the Model_Finder class
+2022-07-12/01:04:21		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/01:04:21		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  Found input variables with inconsistent numbers of samples: [392, 263]
+2022-07-12/01:04:21		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/01:04:21		Exception occured in get_best_model method of the Model_Finder class. Exception message:  Error occurred python script name [B:\project\fraud_detection\best_model_finder\tunner.py] line number [90] error message [Found input variables with inconsistent numbers of samples: [392, 263]].
+2022-07-12/01:04:21		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-07-12/10:00:52		Entered the get_best_model method of the Model_Finder class
+2022-07-12/10:00:52		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/10:00:59		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/10:00:59		AUC for XGBoost:0.7187875150060024
+2022-07-12/10:00:59		Entered the get_best_params_for_svm method of the Model_Finder class
+2022-07-12/10:01:00		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-07-12/10:01:00		AUC for SVM:0.5
+2022-07-12/10:01:00		Entered the get_best_model method of the Model_Finder class
+2022-07-12/10:01:00		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/10:01:02		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 130}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-07-12/10:01:02		AUC for XGBoost:0.43999999999999995
+2022-07-12/10:01:02		Entered the get_best_params_for_svm method of the Model_Finder class
+2022-07-12/10:01:03		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-07-12/10:01:03		AUC for SVM:0.5

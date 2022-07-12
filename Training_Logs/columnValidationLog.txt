@@ -1,0 +1,185 @@
+2022-05-30/22:04:56		Column Length Validation Started!!
+2022-05-30/22:04:56		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/02:41:14		Column Length Validation Started!!
+2022-05-31/02:41:14		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/02:49:50		Column Length Validation Started!!
+2022-05-31/02:49:50		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/10:45:17		Column Length Validation Started!!
+2022-05-31/10:45:17		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/15:12:15		Column Length Validation Started!!
+2022-05-31/15:12:46		Column Length Validation Completed!!
+2022-05-31/15:24:07		Column Length Validation Started!!
+2022-05-31/15:24:20		Column Length Validation Completed!!
+2022-05-31/17:02:23		Column Length Validation Started!!
+2022-05-31/17:02:34		Column Length Validation Completed!!
+2022-05-31/17:22:28		Column Length Validation Started!!
+2022-05-31/17:22:38		Column Length Validation Completed!!
+2022-05-31/21:32:26		Column Length Validation Started!!
+2022-05-31/21:32:39		Column Length Validation Completed!!
+2022-05-31/22:36:55		Column Length Validation Started!!
+2022-05-31/22:36:55		Column Length Validation Completed!!
+2022-06-01/19:58:08		Column Length Validation Started!!
+2022-06-01/19:58:09		Column Length Validation Completed!!
+2022-06-01/19:58:38		Column Length Validation Started!!
+2022-06-01/19:58:38		Column Length Validation Completed!!
+2022-06-01/20:03:35		Column Length Validation Started!!
+2022-06-01/20:03:36		Column Length Validation Completed!!
+2022-06-01/20:09:25		Column Length Validation Started!!
+2022-06-01/20:09:39		Column Length Validation Completed!!
+2022-06-01/20:29:22		Column Length Validation Started!!
+2022-06-01/20:29:22		Column Length Validation Completed!!
+2022-06-01/20:40:37		Column Length Validation Started!!
+2022-06-01/20:40:37		Column Length Validation Completed!!
+2022-06-01/20:51:34		Column Length Validation Started!!
+2022-06-01/20:51:34		Column Length Validation Completed!!
+2022-06-01/21:19:35		Column Length Validation Started!!
+2022-06-01/21:19:35		Column Length Validation Completed!!
+2022-06-01/21:23:02		Column Length Validation Started!!
+2022-06-01/21:23:02		Column Length Validation Completed!!
+2022-06-01/21:58:25		Column Length Validation Started!!
+2022-06-01/21:58:25		Column Length Validation Completed!!
+2022-06-01/22:05:01		Column Length Validation Started!!
+2022-06-01/22:05:01		Column Length Validation Completed!!
+2022-06-01/22:24:19		Column Length Validation Started!!
+2022-06-01/22:24:19		Column Length Validation Completed!!
+2022-06-01/22:36:47		Column Length Validation Started!!
+2022-06-01/22:36:47		Column Length Validation Completed!!
+2022-06-02/18:09:55		Column Length Validation Started!!
+2022-06-02/18:09:55		Column Length Validation Completed!!
+2022-06-02/18:25:25		Column Length Validation Started!!
+2022-06-02/18:25:25		Column Length Validation Completed!!
+2022-06-02/18:28:02		Column Length Validation Started!!
+2022-06-02/18:28:02		Column Length Validation Completed!!
+2022-06-02/18:29:56		Column Length Validation Started!!
+2022-06-02/18:29:56		Column Length Validation Completed!!
+2022-06-02/18:32:20		Column Length Validation Started!!
+2022-06-02/18:32:20		Column Length Validation Completed!!
+2022-06-02/18:37:57		Column Length Validation Started!!
+2022-06-02/18:37:57		Column Length Validation Completed!!
+2022-06-02/19:18:48		Column Length Validation Started!!
+2022-06-02/19:18:48		Column Length Validation Completed!!
+2022-06-02/19:23:26		Column Length Validation Started!!
+2022-06-02/19:23:26		Column Length Validation Completed!!
+2022-06-02/21:56:36		Column Length Validation Started!!
+2022-06-02/21:56:36		Column Length Validation Completed!!
+2022-06-03/09:39:13		Column Length Validation Started!!
+2022-06-03/09:39:13		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/09:40:48		Column Length Validation Started!!
+2022-06-03/09:40:48		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/10:09:33		Column Length Validation Started!!
+2022-06-03/10:09:33		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/10:11:12		Column Length Validation Started!!
+2022-06-03/10:11:12		Column Length Validation Completed!!
+2022-06-03/10:18:01		Column Length Validation Started!!
+2022-06-03/10:18:01		Column Length Validation Completed!!
+2022-06-03/10:19:44		Column Length Validation Started!!
+2022-06-03/10:19:44		Column Length Validation Completed!!
+2022-06-03/10:20:37		Column Length Validation Started!!
+2022-06-03/10:20:37		Column Length Validation Completed!!
+2022-06-03/10:39:25		Column Length Validation Started!!
+2022-06-03/10:39:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119910_010212.csv
+2022-06-03/10:39:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119911_010213.csv
+2022-06-03/10:39:25		Column Length Validation Completed!!
+2022-06-04/17:00:52		Column Length Validation Started!!
+2022-06-04/17:00:52		Column Length Validation Completed!!
+2022-06-04/17:03:01		Column Length Validation Started!!
+2022-06-04/17:03:01		Column Length Validation Completed!!
+2022-06-04/17:06:32		Column Length Validation Started!!
+2022-06-04/17:06:32		Column Length Validation Completed!!
+2022-06-04/17:24:52		Column Length Validation Started!!
+2022-06-04/17:24:52		Column Length Validation Completed!!
+2022-06-04/17:32:39		Column Length Validation Started!!
+2022-06-04/17:32:39		Column Length Validation Completed!!
+2022-06-04/17:39:19		Column Length Validation Started!!
+2022-06-04/17:39:19		Column Length Validation Completed!!
+2022-07-09/16:22:13		Column Length Validation Started!!
+2022-07-09/16:22:13		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/16:22:13		Column Length Validation Completed!!
+2022-07-09/16:31:53		Column Length Validation Started!!
+2022-07-09/16:31:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/16:31:53		Column Length Validation Completed!!
+2022-07-09/17:23:58		Column Length Validation Started!!
+2022-07-09/17:23:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/17:23:59		Column Length Validation Completed!!
+2022-07-09/17:31:29		Column Length Validation Started!!
+2022-07-09/17:31:30		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-09/17:31:30		Column Length Validation Completed!!
+2022-07-11/11:02:10		Column Length Validation Started!!
+2022-07-11/11:02:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/11:02:10		Column Length Validation Completed!!
+2022-07-11/11:15:32		Column Length Validation Started!!
+2022-07-11/11:15:32		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/11:15:32		Column Length Validation Completed!!
+2022-07-11/11:21:27		Column Length Validation Started!!
+2022-07-11/11:21:27		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/11:21:27		Column Length Validation Completed!!
+2022-07-11/12:18:24		Column Length Validation Started!!
+2022-07-11/12:18:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/12:18:24		Column Length Validation Completed!!
+2022-07-11/13:13:51		Column Length Validation Started!!
+2022-07-11/13:13:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/13:13:51		Column Length Validation Completed!!
+2022-07-11/13:41:58		Column Length Validation Started!!
+2022-07-11/13:41:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/13:41:58		Column Length Validation Completed!!
+2022-07-11/13:59:26		Column Length Validation Started!!
+2022-07-11/13:59:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/13:59:26		Column Length Validation Completed!!
+2022-07-11/14:37:04		Column Length Validation Started!!
+2022-07-11/14:37:04		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/14:37:04		Column Length Validation Completed!!
+2022-07-11/14:59:33		Column Length Validation Started!!
+2022-07-11/14:59:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/14:59:33		Column Length Validation Completed!!
+2022-07-11/17:12:44		Column Length Validation Started!!
+2022-07-11/17:12:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/17:12:44		Column Length Validation Completed!!
+2022-07-11/17:15:15		Column Length Validation Started!!
+2022-07-11/17:15:15		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/17:15:15		Column Length Validation Completed!!
+2022-07-11/17:18:52		Column Length Validation Started!!
+2022-07-11/17:18:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/17:18:53		Column Length Validation Completed!!
+2022-07-11/17:23:22		Column Length Validation Started!!
+2022-07-11/17:23:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/17:23:22		Column Length Validation Completed!!
+2022-07-11/18:28:39		Column Length Validation Started!!
+2022-07-11/18:28:39		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/18:28:39		Column Length Validation Completed!!
+2022-07-11/18:36:28		Column Length Validation Started!!
+2022-07-11/18:36:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: fraudDetection_021119920_010222.csv
+2022-07-11/18:36:28		Column Length Validation Completed!!
+2022-07-11/18:50:04		Column Length Validation Started!!
+2022-07-11/18:50:04		Column Length Validation Completed!!
+2022-07-11/18:56:23		Column Length Validation Started!!
+2022-07-11/18:56:23		Column Length Validation Completed!!
+2022-07-11/20:11:35		Column Length Validation Started!!
+2022-07-11/20:11:36		Column Length Validation Completed!!
+2022-07-11/20:16:45		Column Length Validation Started!!
+2022-07-11/20:16:45		Column Length Validation Completed!!
+2022-07-11/20:20:14		Column Length Validation Started!!
+2022-07-11/20:20:14		Column Length Validation Completed!!
+2022-07-11/23:43:40		Column Length Validation Started!!
+2022-07-11/23:43:40		Column Length Validation Completed!!
+2022-07-12/00:04:30		Column Length Validation Started!!
+2022-07-12/00:04:30		Column Length Validation Completed!!
+2022-07-12/00:18:30		Column Length Validation Started!!
+2022-07-12/00:18:30		Column Length Validation Completed!!
+2022-07-12/00:34:03		Column Length Validation Started!!
+2022-07-12/00:34:03		Column Length Validation Completed!!
+2022-07-12/00:38:46		Column Length Validation Started!!
+2022-07-12/00:38:46		Column Length Validation Completed!!
+2022-07-12/00:40:12		Column Length Validation Started!!
+2022-07-12/00:40:12		Column Length Validation Completed!!
+2022-07-12/01:03:45		Column Length Validation Started!!
+2022-07-12/01:03:45		Column Length Validation Completed!!
+2022-07-12/01:42:42		Column Length Validation Started!!
+2022-07-12/01:42:42		Column Length Validation Completed!!
+2022-07-12/01:47:17		Column Length Validation Started!!
+2022-07-12/01:47:17		Column Length Validation Completed!!
+2022-07-12/09:51:52		Column Length Validation Started!!
+2022-07-12/09:51:52		Column Length Validation Completed!!
+2022-07-12/09:55:28		Column Length Validation Started!!
+2022-07-12/09:55:28		Column Length Validation Completed!!
+2022-07-12/10:00:10		Column Length Validation Started!!
+2022-07-12/10:00:10		Column Length Validation Completed!!

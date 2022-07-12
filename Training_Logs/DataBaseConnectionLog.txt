@@ -1,0 +1,197 @@
+2022-07-09/16:22:25		connection was successful
+2022-07-09/16:22:25		Error while creating table: <Error from server: code=2000 [Syntax error in CQL query] message="line 1:369 no viable alternative at input '-' (...,insured_hobbies text,insured_relationship text,capital[-]...)"> 
+2022-07-09/16:22:40		connection was successful
+2022-07-09/16:22:54		connection was successful
+2022-07-09/16:22:54		Error while extracting data: Error from server: code=2200 [Invalid query] message="table test2.good_rawwa does not exist" 
+2022-07-09/16:32:04		connection was successful
+2022-07-09/16:32:05		Error while creating table: <Error from server: code=2000 [Syntax error in CQL query] message="line 1:369 no viable alternative at input '-' (...,insured_hobbies text,insured_relationship text,capital[-]...)"> 
+2022-07-09/16:32:17		connection was successful
+2022-07-09/16:32:29		connection was successful
+2022-07-09/16:32:29		Error while extracting data: Error from server: code=2200 [Invalid query] message="table test2.good_rawwa does not exist" 
+2022-07-09/17:24:12		connection was successful
+2022-07-09/17:24:13		Tables created successfully!!
+2022-07-09/17:24:25		connection was successful
+2022-07-09/17:24:38		connection was successful
+2022-07-09/17:24:39		data loaded to csv successfully!!
+2022-07-09/17:31:43		connection was successful
+2022-07-09/17:31:43		Tables created successfully!!
+2022-07-09/17:31:54		connection was successful
+2022-07-09/17:32:06		connection was successful
+2022-07-09/17:32:06		data loaded to csv successfully!!
+2022-07-11/11:02:24		connection was successful
+2022-07-11/11:02:24		Tables created successfully!!
+2022-07-11/11:02:35		connection was successful
+2022-07-11/11:02:47		connection was successful
+2022-07-11/11:02:47		data loaded to csv successfully!!
+2022-07-11/11:15:43		connection was successful
+2022-07-11/11:15:43		Tables created successfully!!
+2022-07-11/11:15:55		connection was successful
+2022-07-11/11:16:06		connection was successful
+2022-07-11/11:16:07		data loaded to csv successfully!!
+2022-07-11/11:21:40		connection was successful
+2022-07-11/11:21:40		Tables created successfully!!
+2022-07-11/11:21:53		connection was successful
+2022-07-11/11:22:06		connection was successful
+2022-07-11/11:22:06		data loaded to csv successfully!!
+2022-07-11/12:18:40		connection was successful
+2022-07-11/12:18:40		Tables created successfully!!
+2022-07-11/12:18:53		connection was successful
+2022-07-11/12:19:05		connection was successful
+2022-07-11/12:19:05		data loaded to csv successfully!!
+2022-07-11/13:14:02		connection was successful
+2022-07-11/13:14:02		Tables created successfully!!
+2022-07-11/13:14:14		connection was successful
+2022-07-11/13:14:25		connection was successful
+2022-07-11/13:14:26		data loaded to csv successfully!!
+2022-07-11/13:42:10		connection was successful
+2022-07-11/13:42:10		Tables created successfully!!
+2022-07-11/13:42:23		connection was successful
+2022-07-11/13:42:36		connection was successful
+2022-07-11/13:42:36		data loaded to csv successfully!!
+2022-07-11/13:59:38		connection was successful
+2022-07-11/13:59:38		Tables created successfully!!
+2022-07-11/13:59:49		connection was successful
+2022-07-11/14:00:02		connection was successful
+2022-07-11/14:00:03		data loaded to csv successfully!!
+2022-07-11/14:37:17		connection was successful
+2022-07-11/14:37:17		Tables created successfully!!
+2022-07-11/14:37:32		connection was successful
+2022-07-11/14:37:45		connection was successful
+2022-07-11/14:37:45		data loaded to csv successfully!!
+2022-07-11/14:59:46		connection was successful
+2022-07-11/14:59:46		Tables created successfully!!
+2022-07-11/14:59:59		connection was successful
+2022-07-11/15:00:11		connection was successful
+2022-07-11/15:00:11		data loaded to csv successfully!!
+2022-07-11/17:12:56		connection was successful
+2022-07-11/17:12:56		Tables created successfully!!
+2022-07-11/17:13:08		connection was successful
+2022-07-11/17:13:19		connection was successful
+2022-07-11/17:13:20		data loaded to csv successfully!!
+2022-07-11/17:15:27		connection was successful
+2022-07-11/17:15:28		Tables created successfully!!
+2022-07-11/17:15:42		connection was successful
+2022-07-11/17:15:54		connection was successful
+2022-07-11/17:15:54		data loaded to csv successfully!!
+2022-07-11/17:19:05		connection was successful
+2022-07-11/17:19:05		Tables created successfully!!
+2022-07-11/17:19:20		connection was successful
+2022-07-11/17:19:31		connection was successful
+2022-07-11/17:19:32		data loaded to csv successfully!!
+2022-07-11/17:23:35		connection was successful
+2022-07-11/17:23:35		Tables created successfully!!
+2022-07-11/17:23:46		connection was successful
+2022-07-11/17:23:58		connection was successful
+2022-07-11/17:23:58		data loaded to csv successfully!!
+2022-07-11/18:28:52		connection was successful
+2022-07-11/18:28:52		Tables created successfully!!
+2022-07-11/18:29:05		connection was successful
+2022-07-11/18:29:17		connection was successful
+2022-07-11/18:29:17		data loaded to csv successfully!!
+2022-07-11/18:36:39		connection was successful
+2022-07-11/18:36:39		Tables created successfully!!
+2022-07-11/18:36:51		connection was successful
+2022-07-11/18:37:02		connection was successful
+2022-07-11/18:37:03		data loaded to csv successfully!!
+2022-07-11/18:50:17		connection was successful
+2022-07-11/18:50:17		Tables created successfully!!
+2022-07-11/18:50:29		connection was successful
+2022-07-11/18:50:29		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-11/18:50:42		connection was successful
+2022-07-11/18:50:42		data loaded to csv successfully!!
+2022-07-11/18:56:38		connection was successful
+2022-07-11/18:56:38		Tables created successfully!!
+2022-07-11/18:56:50		connection was successful
+2022-07-11/18:56:50		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-11/18:57:03		connection was successful
+2022-07-11/18:57:03		data loaded to csv successfully!!
+2022-07-11/20:11:47		connection was successful
+2022-07-11/20:11:47		Tables created successfully!!
+2022-07-11/20:12:00		connection was successful
+2022-07-11/20:12:00		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-11/20:12:15		connection was successful
+2022-07-11/20:12:15		data loaded to csv successfully!!
+2022-07-11/20:16:56		connection was successful
+2022-07-11/20:16:56		Tables created successfully!!
+2022-07-11/20:17:09		connection was successful
+2022-07-11/20:17:09		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-11/20:17:21		connection was successful
+2022-07-11/20:17:21		data loaded to csv successfully!!
+2022-07-11/20:20:27		connection was successful
+2022-07-11/20:20:28		Tables created successfully!!
+2022-07-11/20:20:39		connection was successful
+2022-07-11/20:20:39		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-11/20:20:52		connection was successful
+2022-07-11/20:20:52		data loaded to csv successfully!!
+2022-07-11/23:43:52		connection was successful
+2022-07-11/23:43:53		Tables created successfully!!
+2022-07-11/23:44:04		connection was successful
+2022-07-11/23:44:04		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-11/23:44:16		connection was successful
+2022-07-11/23:44:16		data loaded to csv successfully!!
+2022-07-12/00:04:41		connection was successful
+2022-07-12/00:04:42		Tables created successfully!!
+2022-07-12/00:04:53		connection was successful
+2022-07-12/00:04:53		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/00:05:05		connection was successful
+2022-07-12/00:05:05		data loaded to csv successfully!!
+2022-07-12/00:18:41		connection was successful
+2022-07-12/00:18:42		Tables created successfully!!
+2022-07-12/00:18:54		connection was successful
+2022-07-12/00:18:54		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/00:19:06		connection was successful
+2022-07-12/00:19:06		data loaded to csv successfully!!
+2022-07-12/00:34:16		connection was successful
+2022-07-12/00:34:16		Tables created successfully!!
+2022-07-12/00:34:29		connection was successful
+2022-07-12/00:34:29		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/00:34:41		connection was successful
+2022-07-12/00:34:41		data loaded to csv successfully!!
+2022-07-12/00:38:58		connection was successful
+2022-07-12/00:38:58		Tables created successfully!!
+2022-07-12/00:39:09		connection was successful
+2022-07-12/00:39:09		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/00:39:22		connection was successful
+2022-07-12/00:39:22		data loaded to csv successfully!!
+2022-07-12/00:40:25		connection was successful
+2022-07-12/00:40:25		Tables created successfully!!
+2022-07-12/00:40:38		connection was successful
+2022-07-12/00:40:38		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/00:40:50		connection was successful
+2022-07-12/00:40:50		data loaded to csv successfully!!
+2022-07-12/01:03:56		connection was successful
+2022-07-12/01:03:57		Tables created successfully!!
+2022-07-12/01:04:08		connection was successful
+2022-07-12/01:04:08		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/01:04:20		connection was successful
+2022-07-12/01:04:20		data loaded to csv successfully!!
+2022-07-12/01:42:55		connection was successful
+2022-07-12/01:42:55		Tables created successfully!!
+2022-07-12/01:43:07		connection was successful
+2022-07-12/01:43:07		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/01:43:18		connection was successful
+2022-07-12/01:43:19		data loaded to csv successfully!!
+2022-07-12/01:47:30		connection was successful
+2022-07-12/01:47:30		Tables created successfully!!
+2022-07-12/01:47:42		connection was successful
+2022-07-12/01:47:42		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/01:47:55		connection was successful
+2022-07-12/01:47:55		data loaded to csv successfully!!
+2022-07-12/09:52:05		connection was successful
+2022-07-12/09:52:06		Tables created successfully!!
+2022-07-12/09:52:17		connection was successful
+2022-07-12/09:52:17		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/09:52:29		connection was successful
+2022-07-12/09:52:29		data loaded to csv successfully!!
+2022-07-12/09:55:40		connection was successful
+2022-07-12/09:55:40		Tables created successfully!!
+2022-07-12/09:55:52		connection was successful
+2022-07-12/09:55:52		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/09:56:03		connection was successful
+2022-07-12/09:56:04		data loaded to csv successfully!!
+2022-07-12/10:00:24		connection was successful
+2022-07-12/10:00:24		Tables created successfully!!
+2022-07-12/10:00:37		connection was successful
+2022-07-12/10:00:37		Error while creating table: invalid literal for int() with base 10: '1406.91' 
+2022-07-12/10:00:51		connection was successful
+2022-07-12/10:00:51		data loaded to csv successfully!!

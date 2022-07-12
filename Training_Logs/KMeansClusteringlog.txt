@@ -1,0 +1,90 @@
+2022-06-02/19:24:15		Entered the elbow_plot method of the KMeansClustering class
+2022-06-02/19:26:25		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-06-02/19:26:25		Entered the create_clusters method of the KMeansClustering class
+2022-06-02/19:26:37		succesfully created 4
+2022-06-02/21:58:30		Entered the elbow_plot method of the KMeansClustering class
+2022-06-02/22:02:41		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-06-02/22:02:56		Entered the create_clusters method of the KMeansClustering class
+2022-06-02/22:05:25		succesfully created 4
+2022-06-04/17:41:07		Entered the elbow_plot method of the KMeansClustering class
+2022-06-04/17:42:53		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-06-04/17:43:03		Entered the create_clusters method of the KMeansClustering class
+2022-06-04/17:43:11		succesfully created 4
+2022-07-11/11:22:06		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/11:22:06		Exception occured in elbow_plot method. Exception message:  Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required.
+2022-07-11/12:19:05		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/12:19:05		Exception occured in elbow_plot method. Exception message:  Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required.
+2022-07-11/13:14:26		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/13:14:26		Exception occured in elbow_plot method. Exception message:  Found array with 0 sample(s) (shape=(0, 6)) while a minimum of 1 is required.
+2022-07-11/13:42:37		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/13:42:39		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/13:42:39		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/13:42:39		succesfully created 2
+2022-07-11/14:00:03		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/14:00:04		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/14:00:04		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/14:00:04		succesfully created 2
+2022-07-11/14:37:45		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/14:37:47		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/14:37:47		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/14:37:47		succesfully created 2
+2022-07-11/15:00:11		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/15:00:12		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/15:00:12		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/15:00:12		succesfully created 2
+2022-07-11/17:13:20		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/17:13:21		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/17:13:21		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/17:13:21		succesfully created 2
+2022-07-11/17:23:58		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/17:23:59		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/17:23:59		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/17:23:59		succesfully created 2
+2022-07-11/18:29:17		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/18:29:18		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/18:29:18		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/18:29:18		succesfully created 2
+2022-07-11/18:57:03		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/18:57:03		Exception occured in elbow_plot method. Exception message:  Input contains NaN, infinity or a value too large for dtype('float64').
+2022-07-11/20:12:15		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/20:12:16		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/20:12:16		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/20:12:16		succesfully created 2
+2022-07-11/20:17:21		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/20:17:22		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/20:17:22		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/20:17:22		succesfully created 2
+2022-07-11/20:20:52		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/20:20:53		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/20:20:53		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/20:20:53		succesfully created 2
+2022-07-11/23:44:16		Entered the elbow_plot method of the KMeansClustering class
+2022-07-11/23:44:17		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-11/23:44:17		Entered the create_clusters method of the KMeansClustering class
+2022-07-11/23:44:17		succesfully created 2
+2022-07-12/00:05:05		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/00:05:06		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-12/00:05:06		Entered the create_clusters method of the KMeansClustering class
+2022-07-12/00:05:06		succesfully created 2
+2022-07-12/00:19:06		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/00:19:07		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-12/00:19:07		Entered the create_clusters method of the KMeansClustering class
+2022-07-12/00:19:07		succesfully created 2
+2022-07-12/01:04:20		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/01:04:21		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-12/01:04:21		Entered the create_clusters method of the KMeansClustering class
+2022-07-12/01:04:21		succesfully created 2
+2022-07-12/01:47:55		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/01:47:55		Exception occured in elbow_plot method. Exception message:  could not convert string to float: 'YES'
+2022-07-12/09:52:29		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/09:52:31		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-12/09:52:31		Entered the create_clusters method of the KMeansClustering class
+2022-07-12/09:56:04		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/09:56:04		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-12/09:56:04		Entered the create_clusters method of the KMeansClustering class
+2022-07-12/09:56:04		Exception occured in create_clusters method of the KMeansClustering class. Exception message:  'KMeansClustering' object has no attribute 'logger_object'
+2022-07-12/09:56:04		Fitting the data to clusters failed. Exited the create_clusters method of the KMeansClustering class
+2022-07-12/10:00:51		Entered the elbow_plot method of the KMeansClustering class
+2022-07-12/10:00:52		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-07-12/10:00:52		Entered the create_clusters method of the KMeansClustering class
+2022-07-12/10:00:52		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class

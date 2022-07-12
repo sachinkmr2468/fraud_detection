@@ -1,0 +1,56 @@
+2022-06-03/23:21:25		Entered the get_data method of the Data_Getter class
+2022-06-03/23:21:25		Data Load Successful
+2022-06-03/23:26:33		Entered the get_data method of the Data_Getter class
+2022-06-03/23:26:33		Data Load Successful
+2022-06-04/14:35:11		Entered the get_data method of the Data_Getter class
+2022-06-04/14:35:23		Data Load Successful
+2022-06-04/15:07:55		Entered the get_data method of the Data_Getter class
+2022-06-04/15:07:55		Data Load Successful
+2022-06-04/15:12:13		Entered the get_data method of the Data_Getter class
+2022-06-04/15:12:13		Data Load Successful
+2022-06-04/18:20:20		Entered the get_data method of the Data_Getter class
+2022-06-04/18:20:20		Data Load Successful
+2022-06-04/18:58:17		Entered the get_data method of the Data_Getter class
+2022-06-04/18:58:17		Data Load Successful
+2022-06-04/19:21:18		Entered the get_data method of the Data_Getter class
+2022-06-04/19:21:19		Data Load Successful
+2022-06-04/20:35:05		Entered the get_data method of the Data_Getter class
+2022-06-04/20:35:06		Data Load Successful
+2022-06-04/21:35:00		Entered the get_data method of the Data_Getter class
+2022-06-04/21:35:00		Data Load Successful
+2022-06-15/13:07:34		Entered the get_data method of the Data_Getter class
+2022-06-15/13:07:34		Data Load Successful
+2022-06-15/13:46:02		Entered the get_data method of the Data_Getter class
+2022-06-15/13:46:03		Data Load Successful
+2022-06-15/14:21:34		Entered the get_data method of the Data_Getter class
+2022-06-15/14:21:34		Data Load Successful
+2022-06-15/18:11:36		Entered the get_data method of the Data_Getter class
+2022-06-15/18:11:36		Data Load Successful
+2022-06-15/19:44:09		Entered the get_data method of the Data_Getter class
+2022-06-15/19:44:09		Data Load Successful
+2022-06-15/20:08:13		Entered the get_data method of the Data_Getter class
+2022-06-15/20:08:14		Data Load Successful
+2022-06-20/16:11:52		Entered the get_data method of the Data_Getter class
+2022-06-20/16:11:53		Data Load Successful
+2022-06-20/20:40:21		Entered the get_data method of the Data_Getter class
+2022-06-20/20:40:21		Data Load Successful
+2022-06-20/21:19:41		Entered the get_data method of the Data_Getter class
+2022-06-20/21:19:41		Data Load Successful
+2022-06-20/21:21:54		Entered the get_data method of the Data_Getter class
+2022-06-20/21:21:54		Data Load Successful
+2022-06-20/21:51:21		Entered the get_data method of the Data_Getter class
+2022-06-20/21:51:22		Data Load Successful
+2022-06-20/23:25:19		Entered the get_data method of the Data_Getter class
+2022-06-20/23:25:19		Data Load Successful
+2022-06-21/22:58:55		Entered the get_data method of the Data_Getter class
+2022-06-21/22:58:55		Data Load Successful
+2022-06-21/23:12:15		Entered the get_data method of the Data_Getter class
+2022-06-21/23:12:15		Data Load Successful
+2022-06-22/13:18:43		Entered the get_data method of the Data_Getter class
+2022-06-22/13:18:43		Data Load Successful
+2022-06-24/13:33:26		Entered the get_data method of the Data_Getter class
+2022-06-24/13:33:26		Data Load Successful
+2022-06-27/14:01:40		Entered the get_data method of the Data_Getter class
+2022-06-27/14:01:40		Data Load Successful
+2022-07-12/11:01:01		Entered the get_data method of the Data_Getter class
+2022-07-12/11:01:01		Data Load Successful
